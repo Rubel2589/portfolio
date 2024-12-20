@@ -1,0 +1,137 @@
+{
+  "main": {
+    "firstName": "Rubel",
+    "name": "Rubel Ali",
+    "occupation": "Fullstack Developer",
+    "description": "Developer by day as well as night",
+    "image": "prfl.jpg",
+    "bio": "My name is Rubel Ali, I’m currently pursuing my M.Tech in Computer Science and Engineering from NIT Delhi, I've a strong foundation in web development using the MERN stack (MongoDB, Express.js, React, Node.js). My focus is on building scalable, user-centric web applications with modern web technologies. I’ve completed diverse projects, including React-based applications like a To-Do List app, Portfolio app and a full-stack e-commerce platform. Beyond development, my research addresses real-world challenges like water pollution, where I’m designing systems for real-time contamination detection and mapping.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "232210021@nitdelhi.ac.in",
+    "address": {
+      "city": "Kolkata ",
+      "state": "West Bengal"
+    },
+    "website": "www.linkedin.com/in/rubelali",
+    "resumedownload": "https://drive.google.com/file/d/1fiYV0Dm60_mjcUoo-DEPVaASajBETbB6/view?usp=drive_link",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rubelali",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Rubel2589",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am well versed in using React.JS as my main Front end tech stack.",
+    "education": [
+      {
+        "school": "National Institute of Technology Delhi",
+        "degree": "MTech in Computer Science and Engineering",
+        "graduated": "May 2025",
+        "description": "Expected Post Graduation"
+      }
+    ],
+    "work": [
+      {
+        "company": "Company 1",
+        "title": "Front end Developer",
+        "years": "Date - Present",
+        "description": "Develop cutting edge FinTech applications for leading banks"
+      },
+      {
+        "company": "Company 2",
+        "title": "Front end Developer",
+        "years": "Date",
+        "description": "Rapdily build React driven campaign applications for exciting companies such as Spotify, Disney and Bose"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Redux",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      },
+      {
+        "name": "Others like Python, Java, C, C++",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I've known as an exceptional developer with a keen eye for detail. Mine proficiency in the MERN stack and ability to build user-friendly, scalable applications have consistently impressed them. Mine dedication to continuous learning and problem-solving makes me a standout candidate for any team.",
+        "user": "Classmates"
+      }
+    ]
+  }
+}

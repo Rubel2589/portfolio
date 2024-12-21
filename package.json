@@ -2,7 +2,7 @@
   "name": "prtf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rubel2589.github.io/portfolio",
+  "homepage": "https://rubel2589.github.io/portfolio/",
   "dependencies": {
     "@material-ui/icons": "^4.11.3",
     "cra-template": "1.2.0",

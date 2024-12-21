@@ -15,21 +15,13 @@
     "website": "www.linkedin.com/in/rubelali",
     "resumedownload": "https://drive.google.com/file/d/1VQpACnl2hDQE8e5KrieaFauAxCQgcSa0/view?usp=drive_link",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com",
-        "className": "fa fa-facebook"
-      },
+      
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/rubelali",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "className": "fa fa-instagram"
-      },
+      
       {
         "name": "github",
         "url": "https://github.com/Rubel2589",

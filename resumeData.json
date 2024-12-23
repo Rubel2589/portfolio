@@ -41,16 +41,16 @@
     ],
     "work": [
       {
-        "company": "Company 1",
-        "title": "Front end Developer",
-        "years": "Date - Present",
-        "description": "Develop cutting edge FinTech applications for leading banks"
+        "company": "Zukino StyleMind",
+        "title": "Software Developer",
+        "years": "Aug 2024 - Present",
+        "description": "I am currently working as a Software Developer Intern. My responsibilities include developing and maintaining web applications using React.js for the frontend. I focus on core functionalities, ensuring seamless user experiences, and delivering efficient and maintainable code."
       },
       {
-        "company": "Company 2",
-        "title": "Front end Developer",
-        "years": "Date",
-        "description": "Rapdily build React driven campaign applications for exciting companies such as Spotify, Disney and Bose"
+        "company": "SachTech Solution Pvt. Ltd",
+        "title": "Web Development Trainee",
+        "years": "Aug 2020-Sep 2020",
+        "description": "I learn HTML, CSS and JavaScript"
       }
     ],
     "skills": [

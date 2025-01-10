@@ -36,15 +36,22 @@
         "school": "National Institute of Technology Delhi",
         "degree": "MTech in Computer Science and Engineering",
         "graduated": "May 2025",
-        "description": "Expected Post Graduation"
+        "description": "Post Graduation"
+      },
+
+      {
+        "school": "Quest Group Of Institutions",
+        "degree": "BTech in Computer Science and Engineering",
+        "graduated": "June 2022",
+        "description": "Graduation"
       }
     ],
     "work": [
       {
         "company": "Zukino StyleMind",
-        "title": "Software Developer",
-        "years": "Aug 2024 - Present",
-        "description": "I am currently working as a Software Developer Intern. My responsibilities include developing and maintaining web applications using React.js for the frontend. I focus on core functionalities, ensuring seamless user experiences, and delivering efficient and maintainable code."
+        "title": "Software Developer Intern",
+        "years": "Jul 2024 - Dec 2024",
+        "description": "I was working as a Software Developer Intern. My responsibilities include developing and maintaining web applications using React.js for the frontend. I focus on core functionalities, ensuring seamless user experiences, and delivering efficient and maintainable code."
       },
       {
         "company": "SachTech Solution Pvt. Ltd",
@@ -87,35 +94,24 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Todo List App",
+        "category": "Built with ReactJS",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "https://github.com/Rubel2589/TodoList"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Portfolio App",
+        "category": "Portfolio App built with ReactJS",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://github.com/Rubel2589/portfolio"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
+        "title": "MERN Blog App",
+        "category": "MERN Blog App built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://github.com/Rubel2589/mern-blog"
       }
+      
     ]
   },
   "testimonials": {

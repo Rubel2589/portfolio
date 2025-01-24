@@ -26,7 +26,7 @@ class Footer extends Component {
 
             <ul className="copyright">
               <li>
-                &copy; All credit goes to Parvej Khan - Copyright 2024 Rubel Ali
+                &copy; All credit goes to Parvej Khan - Copyright 2025 Rubel Ali
               </li>
               <li>
                 Design by{" "}
